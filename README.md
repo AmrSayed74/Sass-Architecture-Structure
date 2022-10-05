@@ -44,5 +44,5 @@ sass/
 |   |– _normalize.scss   # normalize
 |   ...                  # Etc…
 |
-`– main.scss            # Primary Sass file
+`– main.scss             # Primary Sass file
 ```
