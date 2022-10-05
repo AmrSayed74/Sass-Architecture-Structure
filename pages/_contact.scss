@@ -1,0 +1,10 @@
+@use "../helpers/index" as *;
+
+// [1]- in Layout Folder there is a file called _layout.scss which contain All layout files 
+
+// [2]- in homepage.scss or other pages like about.scss will be Special Case >> 
+//I mean here you are Not Forced to use @use
+//to import _layout.scss file which contain All layout files 
+
+// [3]- here you can choose some special layout files like _header.scss & _footer.scss 
+//in this case you will use @use to import files that you want, not all files 
