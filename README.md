@@ -48,3 +48,8 @@ sass/
 ```
 
 Tip: You Can Also Add Theme Folder If You Have More Than One Theme As seventh Folder Of 1-7 Structure  
+
+In This Structure You Will Find Package.json File Download It And Run 
+``` npm install ```
+Then Run This Line 
+``` npm run start ```
