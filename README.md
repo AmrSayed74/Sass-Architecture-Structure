@@ -46,3 +46,5 @@ sass/
 |
 `– main.scss             # Primary Sass file
 ```
+
+Tip: You Can Also Add Theme Folder If You Have More Than One Theme As seventh Folder Of 1-7 Structure  
